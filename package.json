@@ -1,0 +1,18 @@
+{
+  "name": "fgalletti-package-utils",
+  "version": "1.2.0",
+  "description": "This is a test",
+  "main": "index.js",
+  "bin": {
+    "biz-card": "index.js",
+    "test": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "Francesca Galletti",
+  "license": "ISC"
+}
